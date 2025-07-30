@@ -18,3 +18,11 @@ print("Score :" + str(student_score))
 print("Grade :" + rating)
 print("GPA :", gpa)
 print("Status :", is_passing)
+
+
+msg = """This is a multi-line string
+that spans multiple lines.
+It can be used to write longer text
+without needing to use escape characters for new lines.
+"""
+print(msg)
