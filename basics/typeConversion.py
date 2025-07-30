@@ -4,4 +4,22 @@ x = input("X : ")
 
 print(x)
 
-print(y)
+# print(y)
+
+x = int(x)  # Convert x to an integer
+print(x)
+
+float(x)  # Convert x to a float
+print(x)
+
+bool(x)  # Convert x to a boolean
+# Note: The boolean conversion will return True for any non-empty string
+print(x)
+
+str(x)  # Convert x back to a string
+# Note: This will not change the value of x, it will just return a new string
+print(x)
+
+print(x)
+
+print(x)
