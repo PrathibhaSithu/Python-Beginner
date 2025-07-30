@@ -17,3 +17,9 @@ print(course[0:9:2])
 print(course[::2])  # Every second character from the start to the end
 print(course[::-1])  # Reverse the string
 print(course[:])  # Copy the string
+
+
+birth_year = int(input("Birth year: "))
+
+age = 2025 - birth_year
+print("Your age is:", age)
