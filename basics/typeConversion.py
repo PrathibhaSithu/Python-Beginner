@@ -5,5 +5,3 @@ x = input("X : ")
 print(x)
 
 print(y)
-
-# https://www.youtube.com/watch?v=K5KVEU3aaeQ
