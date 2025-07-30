@@ -1,0 +1,16 @@
+What is an expression ?
+
+- A piece of code that produce a value
+
+What is an syntax error ?
+
+- Is a kind of error that is due to bad syntax or bad grammer in the code
+
+What is a linter ?
+
+- Linter is a tool that check our code for potential error
+
+What are primitive types in Python?
+
+- Strings, Numbers, Booleans,
+- Numbers --> int, floats, complex numbers

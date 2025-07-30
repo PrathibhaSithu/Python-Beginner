@@ -7,19 +7,18 @@ print(x)
 # print(y)
 
 x = int(x)  # Convert x to an integer
-print(x)
+print(int(x))
 
 float(x)  # Convert x to a float
-print(x)
+print(float(x))
 
 bool(x)  # Convert x to a boolean
 # Note: The boolean conversion will return True for any non-empty string
-print(x)
+print(bool(x))
 
 str(x)  # Convert x back to a string
 # Note: This will not change the value of x, it will just return a new string
-print(x)
+print(str(x))
 
-print(x)
-
-print(x)
+print(bool(""))  # False, empty string is considered False
+print(bool(" "))  # True, non-empty string is considered True
