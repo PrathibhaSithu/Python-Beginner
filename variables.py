@@ -13,6 +13,8 @@ is_passing = True
 
 print("Name :" + student_name)
 print("Score :", student_score)
+# Another Way
+print("Score :" + str(student_score))
 print("Grade :" + rating)
 print("GPA :", gpa)
 print("Status :", is_passing)
