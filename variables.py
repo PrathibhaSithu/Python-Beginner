@@ -26,3 +26,5 @@ It can be used to write longer text
 without needing to use escape characters for new lines.
 """
 print(msg)
+
+print("H")  # This line is ignored in the context of recent edits
