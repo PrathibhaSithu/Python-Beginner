@@ -64,5 +64,3 @@ I'm currently working on:
 If you're also learning Python, feel free to fork, clone, or suggest improvements!
 
 ---
-
-> “Practice isn't the thing you do once you're good. It's the thing you do that makes you good.” – Malcolm Gladwell
