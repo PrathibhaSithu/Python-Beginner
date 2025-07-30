@@ -1,0 +1,2 @@
+course = "Python Beginners"
+len()
