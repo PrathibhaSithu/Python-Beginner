@@ -12,7 +12,7 @@ gpa = 3.831
 is_passing = True
 
 print("Name :" + student_name)
-print("Score :" + student_score)
+print("Score :", student_score)
 print("Grade :" + rating)
-print("GPA :" + gpa)
-print("Status :" + is_passing)
+print("GPA :", gpa)
+print("Status :", is_passing)
