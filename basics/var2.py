@@ -16,4 +16,4 @@ print(course[:9])  # From the start to the ninth character
 print(course[0:9:2])
 print(course[::2])  # Every second character from the start to the end
 print(course[::-1])  # Reverse the string
-print(course[:])
+print(course[:])  # Copy the string
