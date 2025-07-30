@@ -1,6 +1,6 @@
 x = 1
-x = 1.1
-x = 1+2j
+xf = 1.1
+xj = 1+2j
 
 print(x)
 
@@ -20,3 +20,8 @@ print(2 ** 3)  # Exponentiation
 print(abs(-2))  # Absolute value
 print(round(2.9))  # Round to nearest integer
 print(round(2.5))  # Round to nearest even integer
+
+x = x+3
+print(x)
+x += 3  # Increment x by 3
+print(x)  # Output: 4
