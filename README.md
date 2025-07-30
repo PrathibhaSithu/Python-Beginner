@@ -41,9 +41,9 @@ I'm currently working on:
 
 ## 🚀 How I'm Learning
 
-- 👨‍🏫 Online Courses (free & paid)
+- 👨‍🏫 Online Courses (free)
 - 📘 Reading Python Docs and books
-- 🧩 Solving problems on [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/)
+<!-- - 🧩 Solving problems on [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/) -->
 - 🛠 Building projects as I learn
 - 📢 Documenting everything here on GitHub
 
