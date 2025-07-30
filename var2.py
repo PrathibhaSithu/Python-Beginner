@@ -1,2 +1,3 @@
 course = "Python Beginners"
-len()
+length = len(course)
+print(length)
