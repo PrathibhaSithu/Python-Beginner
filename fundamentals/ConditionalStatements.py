@@ -8,9 +8,9 @@ if temp > 25:
     print("Have a ice cream!")
 elif temp < 15:
     print("It's a cold day.")
-    print("Have a hot chocolate!")
+    print("Have a hot Chocolate!")
 else:
     print("It's a mild day.")
-    print("Have a Sweet chocolate!")
+    print("Have a Sweet Chocolate!")
 
 print("Stay safe and enjoy your day!")
