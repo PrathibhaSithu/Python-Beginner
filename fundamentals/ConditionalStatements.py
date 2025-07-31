@@ -10,3 +10,5 @@ elif temp < 15:
 else:
     print("It's a mild day.")
     print("Have a Sweet chocolate!")
+
+print("Stay safe and enjoy your day!")
