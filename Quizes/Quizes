@@ -14,3 +14,7 @@ What are primitive types in Python?
 
 - Strings, Numbers, Booleans,
 - Numbers --> int, floats, complex numbers
+
+what is short circuit
+
+- short-circuiting is a behavior in logical operations where Python stops evaluating as soon as the result is determined.
