@@ -22,7 +22,7 @@ if employed:
 else:
     uremployed = False
 
-
+#  And
 if urincome and urcredit_score and uremployed:
     print("You are eligible for the loan.")
 else:
@@ -30,6 +30,12 @@ else:
 
 # Not
 if urincome and urcredit_score and not uremployed:
+    print("You are eligible for the loan.")
+else:
+    print("You are not eligible for the loan.")
+
+# Or
+if (urincome or urcredit_score) and uremployed:
     print("You are eligible for the loan.")
 else:
     print("You are not eligible for the loan.")
