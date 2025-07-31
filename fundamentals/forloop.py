@@ -20,6 +20,7 @@ for star1 in range(1, 6):
     print("*" * star1)
 
 print("-----------------------------------------")
+
 # Inverted Star Pattern
 # range(start, stop, step)
 # start = 5, stop = 0 (exclusive), step = -1
@@ -27,7 +28,10 @@ for star2 in range(5, 0, -1):
     print("*" * star2)
 
 print("-----------------------------------------")
+
 rows = 5
+# range(1, rows + 1) generates numbers from 1 to rows (inclusive)
+# The number of spaces decreases as the row number increases
 for i in range(1, rows + 1):
     spaces = " " * (rows - i)
     stars = "*" * (2 * i - 1)
