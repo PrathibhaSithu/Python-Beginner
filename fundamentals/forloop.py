@@ -38,3 +38,7 @@ for i in range(1, rows + 1):
     print(spaces + stars)
 
 print("-----------------------------------------")
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)
