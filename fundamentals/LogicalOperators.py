@@ -4,6 +4,9 @@ income = int(income)
 credit_score = input("Enter your credit score: ")
 credit_score = float(credit_score)
 
+employed = input("Are you employed? (yes/no): ")
+employed = bool(employed.lower() == 'yes')
+
 if income > 50000:
     urincome = True
 else:
@@ -14,8 +17,13 @@ if credit_score >= 700:
 else:
     urcredit_score = False
 
+if employed:
+    uremployed = True
+else:
+    uremployed = False
 
-if urincome and urcredit_score:
+
+if urincome and urcredit_score and uremployed:
     print("You are eligible for the loan.")
 else:
     print("You are not eligible for the loan.")
