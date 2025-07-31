@@ -4,3 +4,5 @@ print("*" * 20)
 
 
 x = 1
+
+print(type(5))
