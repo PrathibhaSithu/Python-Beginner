@@ -14,3 +14,7 @@ for pattern2 in range(1, 4):
 
 for pattern3 in range(1, 10, 2):
     print("Line", pattern3 + 1, (pattern3 + 1) * "^")
+
+# Star Pattern
+for star1 in range(1, 6):
+    print("*" * star1)
