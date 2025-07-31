@@ -5,4 +5,6 @@ for number in range(4):
         print("Success on line no: " + str(number))
         break
     else:
-        print("No success found in the loop")
+        print("No success found")
+else:
+    print("No success found in the loop after all iterations")
