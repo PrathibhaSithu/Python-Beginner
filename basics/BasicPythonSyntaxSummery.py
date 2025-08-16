@@ -13,3 +13,12 @@ z = x + y
 This is a multi-line comment
 spanning multiple lines
 """
+
+# Input from user
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+# check Datatype
+print(type(name))
+print(type(age))
+type(x)
