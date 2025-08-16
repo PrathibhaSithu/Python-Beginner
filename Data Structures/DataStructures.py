@@ -38,4 +38,23 @@ my_set = {1, 2, 3, 4}
 print(my_set)
 
 # Accessing elements
-# Sets do not support indexing
+for item in my_set:
+    print(item)
+
+# Adding elements to a set
+my_set.add(5)
+print(my_set)
+
+# Removing elements from a set
+my_set.remove(2)
+print(my_set)
+
+# Clearing the set
+my_set.clear()
+print(my_set)  # Output: set()
+
+# Difference between sets
+set1 = {1, 2, 3}
+set2 = {2, 3, 4}
+print(set1.difference(set2))  # Output: {1}
+print(set2.difference(set1))  # Output: {4}
