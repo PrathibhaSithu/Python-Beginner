@@ -26,6 +26,12 @@ type(x)
 # Type Casting
 int("10"), float(10.5), str(100)
 
+x = 5
+
+print(1 < x < 10)        # True
+print(10 > x >= 5)       # True
+print(5 == x < 6)        # True
+print(5 == x == 6)       # False
 
 # Control Flow
 
