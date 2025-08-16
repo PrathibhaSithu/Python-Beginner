@@ -22,3 +22,6 @@ age = input("Enter your age: ")
 print(type(name))
 print(type(age))
 type(x)
+
+# Type Casting
+int("10"), float(10.5), str(100)
