@@ -33,4 +33,16 @@ int("10"), float(10.5), str(100)
 if x > 10:
     print("x is greater than 10")
 
-#
+# If Else
+if x > 10:
+    print("x is greater than 10")
+else:
+    print("x is not greater than 10")
+
+# If Elif Else
+if x > 10:
+    print("x is greater than 10")
+elif x == 10:
+    print("x is equal to 10")
+else:
+    print("x is smaller than 10")
