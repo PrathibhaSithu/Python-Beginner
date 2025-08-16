@@ -25,3 +25,12 @@ type(x)
 
 # Type Casting
 int("10"), float(10.5), str(100)
+
+
+# Control Flow
+
+# If
+if x > 10:
+    print("x is greater than 10")
+
+#
