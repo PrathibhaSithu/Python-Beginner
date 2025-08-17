@@ -11,6 +11,13 @@ def greet(name):
     print(f"Hi {name}")
 
 
+greet("Max")
+
+print("*******************************************************")
+
+print(greet("Maxiene"))
+
+
 def get_greeting(name):
     return f"Hi {name}"
 
