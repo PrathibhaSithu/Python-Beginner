@@ -58,3 +58,29 @@ set1 = {1, 2, 3}
 set2 = {2, 3, 4}
 print(set1.difference(set2))  # Output: {1}
 print(set2.difference(set1))  # Output: {4}
+
+
+# Disjoint sets
+set1 = {1, 2, 3}
+set2 = {4, 5, 6}
+print(set1.isdisjoint(set2))  # Output: True
+
+# Dictionary(HashMap)
+my_dict = {"name": "Alice", "age": 25}
+print(my_dict)
+
+# Accessing elements
+print(my_dict["name"])  # Output: Alice
+print(my_dict["age"])   # Output: 25
+
+# Adding elements
+my_dict["city"] = "New York"
+print(my_dict)
+
+# Removing elements
+del my_dict["age"]
+print(my_dict)
+
+# Clearing the dictionary
+my_dict.clear()
+print(my_dict)  # Output: {}
