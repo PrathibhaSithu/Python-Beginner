@@ -13,3 +13,7 @@ def greet(name):
 
 def get_greeting(name):
     return f"Hi {name}"
+
+
+message = get_greeting("Alice")
+print(message)
