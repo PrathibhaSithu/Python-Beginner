@@ -66,19 +66,19 @@ set2 = {4, 5, 6}
 print(set1.isdisjoint(set2))  # Output: True
 
 # Dictionary(HashMap)
-my_dict = {"name": "Alice", "age": 25}
+my_dict = {"key1": "Value", "Key2": 25}
 print(my_dict)
 
 # Accessing elements
-print(my_dict["name"])  # Output: Alice
-print(my_dict["age"])   # Output: 25
+print(my_dict["key1"])  # Output: Value
+print(my_dict["Key2"])   # Output: 25
 
 # Adding elements
-my_dict["city"] = "New York"
+my_dict["key3"] = "New York"
 print(my_dict)
 
 # Removing elements
-del my_dict["age"]
+del my_dict["Key2"]
 print(my_dict)
 
 # Clearing the dictionary
