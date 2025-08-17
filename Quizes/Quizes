@@ -18,3 +18,8 @@ What are primitive types in Python?
 what is short circuit
 
 - short-circuiting is a behavior in logical operations where Python stops evaluating as soon as the result is determined.
+
+Difference between Parameters vs. Arguments
+
+- Parameters are the variables listed inside the parentheses in a function definition.
+- Arguments are the actual values passed to the function when it is called.
