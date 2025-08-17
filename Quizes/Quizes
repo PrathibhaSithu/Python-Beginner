@@ -23,3 +23,11 @@ Difference between Parameters vs. Arguments
 
 - Parameters are the variables listed inside the parentheses in a function definition.
 - Arguments are the actual values passed to the function when it is called.
+
+Types of functions
+
+- Built-in Functions
+- User-defined Functions
+- Anonymous Functions (Lambda Functions)
+- Recursive Functions
+- Generator Functions
