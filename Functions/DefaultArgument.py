@@ -1,4 +1,4 @@
-def increment(number, by):
+def increment(number, by=1):
     return number + by
 
 
