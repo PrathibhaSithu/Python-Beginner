@@ -3,3 +3,5 @@ def increment(number, by=1):
 
 
 print(increment(9))
+
+print(increment(10, 5))
