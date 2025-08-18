@@ -2,4 +2,4 @@ def increment(number, by):
     return number + by
 
 
-increment(2, 1)
+result = increment(2, 1)
